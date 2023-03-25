@@ -1,4 +1,4 @@
-i like apple
-i love apple
-i really like apple
-i really love apple
+i like apples
+i love apples
+i really like apples
+i really love apples
